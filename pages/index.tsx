@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Cypress
+          Welcome to Cypress test
         </h1>
 
         <p className={styles.description}>
